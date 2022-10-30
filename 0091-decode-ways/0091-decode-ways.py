@@ -3,8 +3,6 @@ class Solution:
         dp = [0]*len(s)
         if not s or s[0] == '0':
             return 0
-        if len(s) == 1:
-            return 1
         dp[0] = 1
         for i in range(1, len(s)):
             if int(s[i]) != 0:
