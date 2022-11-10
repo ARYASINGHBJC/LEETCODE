@@ -6,20 +6,39 @@
 #         self.right = right
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
+        # --------------bfs queue-----------------
         if not root: return True
-        stack = [[root.left, root.right]]
-        while stack:
-            left, right = stack.pop()
-            if not left and not right:
-                continue
-            if left and not right or not left and right:
-                return False
-            if left.val != right.val:
-                return False
-            if left.val == right.val:
-                stack.append([left.left, right.right])
-                stack.append([left.right, right.left])
+        q = deque([(root.left, root.right)])
+        while q:
+            for _ in range(len(q)):
+                left, right = q.popleft()
+                if not left and not right:
+                    continue
+                if not left or not right:
+                    return False
+                if left.val != right.val:
+                    return False
+                q.append((left.left, right.right))
+                q.append((left.right, right.left))
         return True
+        
+        # --------------dfs stack---------------
+        # if not root: return True
+        # stack = [[root.left, root.right]]
+        # while stack:
+        #     left, right = stack.pop()
+        #     if not left and not right:
+        #         continue
+        #     if left and not right or not left and right:
+        #         return False
+        #     if left.val != right.val:
+        #         return False
+        #     if left.val == right.val:
+        #         stack.append([left.left, right.right])
+        #         stack.append([left.right, right.left])
+        # return True
+        
+        # ------------------dfs recursion---------------
         # if not root: return True
         # def symmetric(node1, node2):
         #     if not node1 and not node2: return True
