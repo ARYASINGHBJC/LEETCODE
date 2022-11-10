@@ -7,11 +7,25 @@
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         if not root: return True
-        def symmetric(node1, node2):
-            if not node1 and not node2: return True
-            if (not node1 and node2) or (node1 and not node2):
+        stack = [[root.left, root.right]]
+        while stack:
+            left, right = stack.pop()
+            if not left and not right:
+                continue
+            if left and not right or not left and right:
                 return False
-            if node1.val == node2.val:
-                return symmetric(node1.left, node2.right) and symmetric(node1.right, node2.left)
+            if left.val != right.val:
+                return False
+            if left.val == right.val:
+                stack.append([left.left, right.right])
+                stack.append([left.right, right.left])
+        return True
+        # if not root: return True
+        # def symmetric(node1, node2):
+        #     if not node1 and not node2: return True
+        #     if (not node1 and node2) or (node1 and not node2):
+        #         return False
+        #     if node1.val == node2.val:
+        #         return symmetric(node1.left, node2.right) and symmetric(node1.right, node2.left)
             
-        return symmetric(root.left, root.right)
+        # return symmetric(root.left, root.right)
