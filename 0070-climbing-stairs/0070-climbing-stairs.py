@@ -14,11 +14,19 @@
 #         return dp[n]
 
 
+# class Solution:
+#     def climbStairs(self, n):
+#         a = b = 1
+#         for _ in range(n):
+#             a, b = b, a+ b          
+#         return a
+
 class Solution:
     def climbStairs(self, n):
         a = b = 1
-        for _ in range(n):
-            a, b = b, a+ b          
+        while n:
+            a, b = b, a+ b 
+            n -= 1
         return a
 
 
