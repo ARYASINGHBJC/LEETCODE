@@ -4,6 +4,28 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+class Solution:
+    
+    def longestZigZag(self, root: Optional[TreeNode]) -> int:
+        return max(
+            self.solve(root.left, 'left', 0),
+            self.solve(root.right, 'right', 0)
+        )
+    
+    def solve(self, root, dir_from, path_cnt):
+        if not root:
+            return path_cnt
+        if dir_from == 'left':
+            return max(
+                self.solve(root.right, 'right', path_cnt + 1),
+                self.solve(root.left, 'left', 0)
+            )
+        else:
+            return max(
+                self.solve(root.left, 'left', path_cnt + 1),
+                self.solve(root.right, 'right', 0)
+            )
 # class Solution:
 
 #     def longestZigZag(self, root: Optional[TreeNode]) -> int:
