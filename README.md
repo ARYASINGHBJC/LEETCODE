@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
 ## Matrix
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
