@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -49,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
