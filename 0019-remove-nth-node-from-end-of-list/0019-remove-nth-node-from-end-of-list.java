@@ -17,9 +17,9 @@ class Solution {
         for(int i = 0; i < n; i ++){
             fast = fast.next;
         }
-        if(fast == null){
-            return head;
-        }
+        // if(fast == null){
+        //     return head;
+        // }
         while(fast.next != null){
             slow = slow.next;
             fast = fast.next;
