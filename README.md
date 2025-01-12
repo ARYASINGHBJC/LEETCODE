@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -60,5 +61,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
