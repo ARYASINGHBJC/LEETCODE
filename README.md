@@ -23,6 +23,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0001-two-sum](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -89,6 +90,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0015-3sum](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -98,9 +100,18 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
