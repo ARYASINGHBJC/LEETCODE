@@ -8,6 +8,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | ------- |
 | [0002-add-two-numbers](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -17,6 +18,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0050-powx-n](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -110,8 +112,13 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [1013-fibonacci-number](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
