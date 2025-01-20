@@ -32,6 +32,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0152-maximum-product-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Matrix
@@ -54,6 +55,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0142-linked-list-cycle-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -107,6 +109,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +124,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Memoization
 |  |
 | ------- |
