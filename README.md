@@ -31,6 +31,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0128-longest-consecutive-sequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
@@ -133,4 +134,8 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
