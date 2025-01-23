@@ -64,6 +64,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0242-valid-anagram) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2154-minimum-moves-to-convert-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2154-minimum-moves-to-convert-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,6 +140,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2154-minimum-moves-to-convert-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2154-minimum-moves-to-convert-string) |
 ## Prefix Sum
 |  |
 | ------- |
