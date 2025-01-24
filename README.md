@@ -27,6 +27,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -130,6 +131,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
@@ -144,6 +146,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0890-lemonade-change) |
