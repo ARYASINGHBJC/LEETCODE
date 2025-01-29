@@ -43,6 +43,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0890-lemonade-change](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Matrix
@@ -162,6 +163,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0455-assign-cookies](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2154-minimum-moves-to-convert-string) |
