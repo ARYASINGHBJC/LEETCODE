@@ -25,6 +25,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0001-two-sum](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -135,6 +136,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
