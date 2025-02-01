@@ -46,6 +46,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1833-find-the-highest-altitude](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -180,6 +181,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 ## Counting Sort
 |  |
 | ------- |
