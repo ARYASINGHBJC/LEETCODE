@@ -51,6 +51,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [2058-concatenation-of-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [3429-special-array-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3429-special-array-i) |
 ## Matrix
 |  |
 | ------- |
