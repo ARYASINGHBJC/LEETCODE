@@ -54,6 +54,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2486-most-frequent-even-element](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2486-most-frequent-even-element) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3429-special-array-i) |
 ## Matrix
 |  |
