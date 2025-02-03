@@ -28,6 +28,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0056-merge-intervals) |
@@ -216,4 +217,8 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
