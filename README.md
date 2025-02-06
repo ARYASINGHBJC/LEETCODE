@@ -47,6 +47,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0890-lemonade-change](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1833-find-the-highest-altitude](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -82,6 +83,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0409-longest-palindrome](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2486-most-frequent-even-element) |
 ## String
@@ -200,6 +202,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 ## Counting Sort
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2486-most-frequent-even-element](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2486-most-frequent-even-element) |
