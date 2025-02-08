@@ -87,6 +87,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [1319-unique-number-of-occurrences](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2486-most-frequent-even-element](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2486-most-frequent-even-element) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -223,6 +224,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [2434-design-a-number-container-system](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2434-design-a-number-container-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -231,4 +233,12 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0046-permutations) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
