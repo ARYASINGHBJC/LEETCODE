@@ -8,6 +8,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | ------- |
 | [0002-add-two-numbers](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -174,6 +175,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1013-fibonacci-number) |
@@ -244,4 +246,8 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2434-design-a-number-container-system) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
