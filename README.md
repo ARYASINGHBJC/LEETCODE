@@ -30,6 +30,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0056-merge-intervals) |
@@ -116,6 +117,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0242-valid-anagram) |
@@ -238,6 +240,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0047-permutations-ii) |
 ## Design
 |  |
 | ------- |
