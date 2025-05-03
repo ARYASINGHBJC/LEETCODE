@@ -51,6 +51,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0797-rabbits-in-forest](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
