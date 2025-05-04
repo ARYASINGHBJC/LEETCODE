@@ -67,6 +67,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [2163-kth-distinct-string-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2486-most-frequent-even-element](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2486-most-frequent-even-element) |
+| [2727-number-of-senior-citizens](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2727-number-of-senior-citizens) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -122,6 +123,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
