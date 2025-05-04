@@ -122,6 +122,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3379-score-of-a-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
