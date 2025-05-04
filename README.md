@@ -45,6 +45,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0283-move-zeroes](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -94,6 +95,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0217-contains-duplicate](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
