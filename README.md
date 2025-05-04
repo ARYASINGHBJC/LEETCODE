@@ -108,6 +108,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0151-reverse-words-in-a-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0409-longest-palindrome) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -165,6 +166,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0283-move-zeroes](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
@@ -188,6 +190,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0055-jump-game](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
