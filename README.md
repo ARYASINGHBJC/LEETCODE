@@ -53,6 +53,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0797-rabbits-in-forest](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
+| [0965-unique-email-addresses](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
@@ -100,6 +101,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0965-unique-email-addresses](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1364-tuple-with-same-product) |
@@ -120,6 +122,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0344-reverse-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0965-unique-email-addresses](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
