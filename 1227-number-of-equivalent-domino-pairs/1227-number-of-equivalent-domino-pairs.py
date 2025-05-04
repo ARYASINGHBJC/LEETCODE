@@ -1,14 +1,21 @@
 class Solution:
     def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
         hp = defaultdict(int)
+        pair = 0
         for domino in dominoes:
             key = tuple(sorted(domino))
+            if key in hp:
+                pair += hp[key]
             hp[key] += 1
-        c = 0
-        for val in hp.values():
-            s = val*(val-1)//2
-            c += s
-        return c
+        return pair
+            
+        # c = 0
+        # for val in hp.values():
+        #     s = val*(val-1)//2
+        #     c += s
+        # return c
+
+        
         # cnt = 0
         # for i in range(len(dominoes)):
         #     for j in range(i+1, len(dominoes)):
