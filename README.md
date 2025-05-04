@@ -105,6 +105,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0242-valid-anagram) |
@@ -268,4 +269,8 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
