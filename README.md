@@ -63,6 +63,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2058-concatenation-of-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2486-most-frequent-even-element](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2486-most-frequent-even-element) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -99,6 +100,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [1319-unique-number-of-occurrences](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2486-most-frequent-even-element](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2486-most-frequent-even-element) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -117,6 +119,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2154-minimum-moves-to-convert-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -234,6 +237,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [1364-tuple-with-same-product](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2486-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
