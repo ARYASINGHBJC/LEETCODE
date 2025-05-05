@@ -27,6 +27,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0001-two-sum](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0045-jump-game-ii) |
@@ -172,6 +173,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0015-3sum](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
