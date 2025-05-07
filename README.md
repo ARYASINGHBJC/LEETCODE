@@ -61,6 +61,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1364-tuple-with-same-product) |
+| [1524-string-matching-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1833-find-the-highest-altitude](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -128,6 +129,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0392-is-subsequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0965-unique-email-addresses](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0965-unique-email-addresses) |
+| [1524-string-matching-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -306,4 +308,8 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
