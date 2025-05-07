@@ -74,11 +74,13 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
 | ------- |
@@ -268,6 +270,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2434-design-a-number-container-system) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -293,4 +296,12 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
