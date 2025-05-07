@@ -37,6 +37,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0055-jump-game](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0057-insert-interval) |
+| [0118-pascals-triangle](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -210,6 +211,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0045-jump-game-ii](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0435-non-overlapping-intervals) |
