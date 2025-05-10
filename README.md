@@ -57,6 +57,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0890-lemonade-change](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
 | [0965-unique-email-addresses](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0965-unique-email-addresses) |
+| [1137-height-checker](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
@@ -156,6 +157,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0242-valid-anagram](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0455-assign-cookies) |
+| [1137-height-checker](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1137-height-checker) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Linked List
@@ -253,6 +255,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 ## Counting Sort
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
