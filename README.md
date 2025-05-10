@@ -54,6 +54,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0605-can-place-flowers](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0816-design-hashset](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0816-design-hashset) |
 | [0890-lemonade-change](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
 | [0965-unique-email-addresses](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0965-unique-email-addresses) |
@@ -109,6 +110,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0816-design-hashset](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0816-design-hashset) |
 | [0965-unique-email-addresses](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
@@ -175,6 +177,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0206-reverse-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0816-design-hashset](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -292,6 +295,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 ## Design
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0816-design-hashset) |
 | [2434-design-a-number-container-system](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -317,4 +321,8 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/1524-string-matching-in-an-array) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
