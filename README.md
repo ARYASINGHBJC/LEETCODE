@@ -75,6 +75,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [2163-kth-distinct-string-in-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2486-most-frequent-even-element](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2486-most-frequent-even-element) |
+| [2551-apply-operations-to-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2727-number-of-senior-citizens) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -95,6 +96,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0898-transpose-matrix](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2058-concatenation-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -202,6 +204,7 @@ https://medium.com/@vivek-srivastava/hashing-problems-in-data-structures-c41b77a
 | [0392-is-subsequence](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/ARYASINGHBJC/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
